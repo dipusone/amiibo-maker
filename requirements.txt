@@ -1,0 +1,3 @@
+pyamiibo==0.2
+requests==2.22.0
+nfcpy==1.0.3

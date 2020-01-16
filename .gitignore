@@ -1,0 +1,17 @@
+**/.deps/
+**/.libs/
+**/Makefile
+**/Makefile.in
+*.exe
+*.la
+*.lo
+*.o
+*~
+Doxyfile
+INSTALL
+aclocal.m4
+ar-lib
+autom4te.cache/
+build
+keys/
+*.sublime-*

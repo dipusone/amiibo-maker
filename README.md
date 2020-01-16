@@ -18,7 +18,7 @@ To install the dependencies:
 pip install -r requirements.txt
 ```
 
-For the optional requirements:
+For the optional dependencies:
 
 ```bash
 pip install -r requirements_optional.txt

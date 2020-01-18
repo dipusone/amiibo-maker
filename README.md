@@ -1,6 +1,6 @@
 # Amiibo Maker
 
-Full python implementation of an nfc amiibo dumper and writer.
+Full python3 implementation of an nfc amiibo dumper and writer.
 
 
 ### Prerequisites
